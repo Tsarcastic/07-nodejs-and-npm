@@ -1,0 +1,29 @@
+{
+  "name": "day-07",
+  "version": "1.0.0",
+  "description": "kimmer and brendan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsarcastic/07-nodejs-and-npm.git"
+  },
+  "keywords": [
+    "server",
+    "301",
+    "node"
+  ],
+  "author": "brendan & kimmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tsarcastic/07-nodejs-and-npm/issues"
+  },
+  "homepage": "https://github.com/Tsarcastic/07-nodejs-and-npm#readme"
+}
+
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
